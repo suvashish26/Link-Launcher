@@ -1,2 +1,2 @@
 # Link-Launcher
-A google chrome extension to get quick access to your websites
+This is a mini chrome extension which helps you to easily access your links
